@@ -41,6 +41,14 @@ export const projects = [
     link: '', // add a demo video / screenshots link once allowed
   },
   {
+    title: 'Brewly — Coffee Subscription Landing Page',
+    tag: 'Design to React sample',
+    text:
+      'A complete, responsive landing page with a mobile menu, monthly/yearly pricing toggle, FAQ accordion and a validated signup form, built from reusable React components.',
+    stack: ['React', 'Vite', 'CSS', 'Responsive'],
+    link: 'https://pixelnestdev.github.io/landing-demo/',
+  },
+  {
     title: 'This Portfolio',
     tag: 'Personal project',
     text: 'A fast, responsive single-page portfolio built with React and Vite, with light and dark mode.',
