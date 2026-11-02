@@ -49,6 +49,14 @@ export const projects = [
     link: 'https://pixelnestdev.github.io/landing-demo/',
   },
   {
+    title: 'Brewly Admin — Analytics Dashboard',
+    tag: 'Dashboard sample',
+    text:
+      'An admin dashboard with KPI cards, an interactive revenue chart with hover tooltips, date-range filters, and a searchable, filterable, paginated orders table. Light and dark mode.',
+    stack: ['React', 'SVG charts', 'CSS Grid', 'Responsive'],
+    link: 'https://pixelnestdev.github.io/dashboard-demo/',
+  },
+  {
     title: 'This Portfolio',
     tag: 'Personal project',
     text: 'A fast, responsive single-page portfolio built with React and Vite, with light and dark mode.',
