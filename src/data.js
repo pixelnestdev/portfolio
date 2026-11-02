@@ -2,13 +2,13 @@
 // Lines marked TODO still need your real details.
 
 export const profile = {
-  name: 'Your Name', // TODO
+  name: 'PixelNest',
   role: 'Full-Stack Web Developer',
   tagline:
     'I turn designs into fast, responsive websites and build web apps with React, Node.js and PostgreSQL.',
   location: 'Pakistan · Available worldwide (remote)',
-  email: 'you@example.com', // TODO: the email clients should write to
-  github: 'https://github.com/', // TODO: new GitHub profile link
+  email: 'kjia9876@gmail.com',
+  github: 'https://github.com/pixelnestdev',
   fiverr: '', // TODO later: Fiverr profile link
   upwork: '', // TODO later: Upwork profile link
 };
@@ -45,7 +45,7 @@ export const projects = [
     tag: 'Personal project',
     text: 'A fast, responsive single-page portfolio built with React and Vite, with light and dark mode.',
     stack: ['React', 'Vite', 'CSS'],
-    link: '', // TODO: live link after deploying
+    link: 'https://pixelnestdev.github.io/portfolio/',
   },
 ];
 
