@@ -9,7 +9,7 @@ export const profile = {
   location: 'Pakistan · Available worldwide (remote)',
   email: 'kjia9876@gmail.com',
   github: 'https://github.com/pixelnestdev',
-  fiverr: '', // TODO later: Fiverr profile link
+  fiverr: 'https://www.fiverr.com/pixelnest_dev13',
   upwork: '', // TODO later: Upwork profile link
 };
 
